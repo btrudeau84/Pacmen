@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to right, #212529 68.5%, #b89600);
+}
+
+
+
+.dropdown-menu {
+    opacity: .75;
+    background-color: black;
+}
+
+.dropdown-item {
+    color: #b89600;
+    opacity: 1;
+}
+
+.game-container {
+    position: relative;
+    top: 200px;
+    height: 350px;
+}
+
+.project-description {
+    top: 150px;
+    position: relative;
+    color: #b89600;
+}
